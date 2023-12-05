@@ -14,4 +14,5 @@ In the end, a cat is more than a pet; it helps us find happiness in simple thing
 Cats also have a funny curiosity that makes them even more charming. We enjoy their curiosity. They like to check out toys, look in corners, and see what's around. This curiosity shows that they are smart and playful, making them fun friends. 
 
 The way they explore and play shows both grace and curiosity, making even simple times fun. Cats have a natural curiosity that makes them even more charming. They are great friends and interesting.
+
 ![WhatsApp Image 2023-10-24 at 12 54 37](https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/9d16a4bc-c011-4bb9-855a-94fa12d43b87)

@@ -52,7 +52,6 @@ This project is about a law firm. It is about visual identity.
 ![Modern Stationery Branding Poster Mockup (kopie)_11zon](https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/b304150a-fcac-431f-87b8-c7698cc0a42e)
 ![5_11zon](https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/610775e7-2806-4a6a-aee3-4ce5321e2eb5)
 ![3_11zon](https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/1cf5abd3-afc4-4d40-a343-6ed4d1a5c294)
-![Modern Stationery Branding PosterZ Mockup_11zon](https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/ebb34ef9-6a8a-4c68-8ff0-e400a2f16f5c)
 ![Modern Stationery Branding Poster Mockup_11zon](https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/7d5c9f6e-1a9c-4866-bebe-74de0024c794)
 
 

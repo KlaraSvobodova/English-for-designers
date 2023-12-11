@@ -8,6 +8,7 @@
 
 ### My projects 
 * visual identity
+* posters
 * product design 
 * logo design
 
@@ -29,14 +30,30 @@ This project was once again part of a competition, which I won. It involves crea
 ![Urban_Poster_Mockup_11zon](https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/7d98bafb-2295-4903-b126-dfbe6b0a36bd)
 
 
-### Chaoidy Paní papouškové 
+### Chaoidy Paní Papouškové 
 "Chaoid's of Mrs. Parrots"
 
-This book covers the history of art by Mrs. Vaculíková from prehistoric times to the present. In the book, you will find education materials, including illustrations and interesting facts.
+This book covers the history of art by Mrs. Vaculíková from prehistoric times to the present. In the book, you will find education materials, including illustrations and interesting facts... And this is my final project on Michael's school. 
 
 ![Free_Book_Mockup_8 (kopie)](https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/15b0a675-544b-4efa-9823-8a5b6d32ad9a)
 ![Free_Book_Mockup_3 (kopie)](https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/d93db4c0-1d61-4b58-922d-8ea76d8ac710)
 ![Free_Book_Mockup_3](https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/4ff4cfd2-1c55-4839-9cb2-5800399c92dc)
 ![Free_Book_Mockup_6](https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/d71420c9-b14e-49e0-ba2d-74a297d58764)
+
+
+### Law office 
+This project is about a law firm. It is about visual identity.
+
+![Office Glass Mockup](https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/49e4b87c-bdc6-48dd-8278-cbb137cfe7ca)
+![corporate-identity-mockup](https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/ee0003ed-46d7-4ade-bbeb-1f651e33f24a)
+
+### Posters
+
+![Modern Stationery Branding Poster Mockup (kopie)_11zon](https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/b304150a-fcac-431f-87b8-c7698cc0a42e)
+![5_11zon](https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/610775e7-2806-4a6a-aee3-4ce5321e2eb5)
+![3_11zon](https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/1cf5abd3-afc4-4d40-a343-6ed4d1a5c294)
+![Modern Stationery Branding PosterZ Mockup_11zon](https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/ebb34ef9-6a8a-4c68-8ff0-e400a2f16f5c)
+![Modern Stationery Branding Poster Mockup_11zon](https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/7d5c9f6e-1a9c-4866-bebe-74de0024c794)
+
 
 

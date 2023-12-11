@@ -4,7 +4,6 @@
 * Also to graphics, I work on Czech floorball development projects to stay sane. I am an active referee and player... well, not active right now due to my health problems. So, if I'm not sitting at the computer at home, I'm somewhere on the court... and I must not forget that I am a proud owner of a cat.
 
 ![ABC8DC13-5B67-4D1F-9DDA-F2725F46274E](https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/e0154011-6d5c-49cf-8f02-b5aaeed2e1b6)
-![IMG_1242-1 2](https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/efe28701-fba4-4f29-95eb-ef9eaf06bdec)
 
 
 ### My projects 
@@ -28,4 +27,16 @@ This project was created in 2018 as part of a competition for the visual identit
 This project was once again part of a competition, which I won. It involves creating the visual identity for an international classical music festival in Kutná Hora. The primary focus of this project is the creation of posters.
 
 ![Urban_Poster_Mockup_11zon](https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/7d98bafb-2295-4903-b126-dfbe6b0a36bd)
+
+
+### Chaoidy Paní papouškové 
+"Chaoid's of Mrs. Parrots"
+
+This book covers the history of art by Mrs. Vaculíková from prehistoric times to the present. In the book, you will find education materials, including illustrations and interesting facts.
+
+![Free_Book_Mockup_8 (kopie)](https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/15b0a675-544b-4efa-9823-8a5b6d32ad9a)
+![Free_Book_Mockup_3 (kopie)](https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/d93db4c0-1d61-4b58-922d-8ea76d8ac710)
+![Free_Book_Mockup_3](https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/4ff4cfd2-1c55-4839-9cb2-5800399c92dc)
+![Free_Book_Mockup_6](https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/d71420c9-b14e-49e0-ba2d-74a297d58764)
+
 

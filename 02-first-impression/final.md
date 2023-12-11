@@ -15,9 +15,9 @@
 
 ### DIVADELNÍ KLUB ŠKOLKA
 "Theatrical club Nursery"
-This project has nothing to do with the nursery; it's just a coincidence of the name.
+* This project has nothing to do with the nursery; it's just a coincidence of the name.
 
-This project was created in 2018 as part of a competition for the visual identity of a theater club. The design I made won and was used. It's still used today. I like remembering it because it was my first big contest win that actually happened.
+* Identity was created in 2018 as part of a competition for the visual identity of a theater club. The design I made won and was used. It's still used today. I like remembering it because it was my first big contest win that actually happened.
 
 ![Chalkboard-Text-Effect](https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/5850b7c3-6b22-44dc-b04b-9c53a6d9cc48)
 ![poster_mockup](https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/143db6e5-3dab-4441-8e3e-c5ecbc3d354d)
@@ -25,7 +25,7 @@ This project was created in 2018 as part of a competition for the visual identit
 
 
 ### INTERNATIONAL MUSIC FESTIVAL 
-This project was once again part of a competition, which I won. It involves creating the visual identity for an international classical music festival in Kutná Hora. The primary focus of this project is the creation of posters.
+* This project was once again part of a competition, which I won. It involves creating the visual identity for an international classical music festival in Kutná Hora. The primary focus of this project is the creation of posters.
 
 ![Urban_Poster_Mockup_11zon](https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/7d98bafb-2295-4903-b126-dfbe6b0a36bd)
 
@@ -33,7 +33,7 @@ This project was once again part of a competition, which I won. It involves crea
 ### CHAOIDY PANÍ PAPOUŠKOVÉ 
 "Chaoid's of Mrs. Parrots"
 
-This book covers the history of art by Mrs. Vaculíková from prehistoric times to the present. In the book, you will find education materials, including illustrations and interesting facts... And this is my final project on Michael's school. 
+* This book covers the history of art by Mrs. Vaculíková from prehistoric times to the present. In the book, you will find education materials, including illustrations and interesting facts... And this is my final project on Michael's school. 
 
 ![Free_Book_Mockup_8 (kopie)](https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/15b0a675-544b-4efa-9823-8a5b6d32ad9a)
 ![Free_Book_Mockup_3 (kopie)](https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/d93db4c0-1d61-4b58-922d-8ea76d8ac710)
@@ -42,7 +42,7 @@ This book covers the history of art by Mrs. Vaculíková from prehistoric times 
 
 
 ### LAW OFFICE
-This project is about a law firm. It is visual identity.
+* This project is about a law firm. It is visual identity.
 
 ![Office Glass Mockup](https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/49e4b87c-bdc6-48dd-8278-cbb137cfe7ca)
 ![corporate-identity-mockup](https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/ee0003ed-46d7-4ade-bbeb-1f651e33f24a)

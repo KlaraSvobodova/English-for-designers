@@ -30,6 +30,7 @@
 
 ![Urban_Poster_Mockup_11zon](https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/7d98bafb-2295-4903-b126-dfbe6b0a36bd)
 
+* But if you see a similar poster here in the hallway... it's not my work, it's the work of the graphic artist who messed everything up.
 
 ### CHAOIDY PANÍ PAPOUŠKOVÉ 
 "Chaoid's of Mrs. Parrot"

@@ -1,7 +1,7 @@
 ## My portfolio
 ### About me
 * Hello, my name is Klára Svobodová, and my nickname is Klárys. I have been doing graphic design since high school. I graduated from a vocational school with a focus on graphic design. I went to the Michael School and finished last year. I got the title DiS. Graphic Designer. Currently, I am here at VŠKK.
-* Also to graphics, I work on Czech floorball development projects. I am an active referee and player... well, not active player right now due to my health problems. So, if I'm not sitting at the computer at home, I'm somewhere on the court... 
+* Also to graphics, I work on Czech floorball development projects. I am an active referee and player... well, not active player right now due to my health problems. So, if I'm not sitting at the computer at home, I'm somewhere on the sports hall... 
 
 ![ABC8DC13-5B67-4D1F-9DDA-F2725F46274E](https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/e0154011-6d5c-49cf-8f02-b5aaeed2e1b6)
 
@@ -18,7 +18,7 @@
 "Theatrical club Nursery"
 * This project has nothing to do with the nursery; it's just a coincidence of the name.
 
-* Identity was created in 2018 as part of a competition for the visual identity of a theater club. The design I made won and was used. It's still used today. I like remembering it because it was my first big contest win that actually happened.
+* Identity was created in 2018 as part of a competition for the visual identity of a theater club. The design I made won and was used. It's still used today. I like remembering it because it was my first bigger contest win that actually happened.
 
 ![Chalkboard-Text-Effect](https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/5850b7c3-6b22-44dc-b04b-9c53a6d9cc48)
 ![poster_mockup](https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/143db6e5-3dab-4441-8e3e-c5ecbc3d354d)
@@ -43,7 +43,7 @@
 
 
 ### LAW OFFICE
-* This project is about a law company. It is visual identity.
+* Project is about a law company. I created visual identity. It was a good experience in this sector.
 
 ![Office Glass Mockup](https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/49e4b87c-bdc6-48dd-8278-cbb137cfe7ca)
 ![corporate-identity-mockup](https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/ee0003ed-46d7-4ade-bbeb-1f651e33f24a)

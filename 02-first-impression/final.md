@@ -1,16 +1,17 @@
 ## My portfolio
 ### About me
 * Hello, my name is Klára Svobodová, and my nickname is Klárys. I have been doing graphic design since high school. I graduated from a vocational school with a focus on graphic design. I went to the Michael School and finished last year. I got the title DiS. Graphic Designer. Currently, I am here at VŠKK.
-* Also to graphics, I work on Czech floorball development projects. I am an active referee and player... well, not active player right now due to my health problems. So, if I'm not sitting at the computer at home, I'm somewhere on the court... and I must not forget that I am a proud owner of a cat.
+* Also to graphics, I work on Czech floorball development projects. I am an active referee and player... well, not active player right now due to my health problems. So, if I'm not sitting at the computer at home, I'm somewhere on the court... 
 
 ![ABC8DC13-5B67-4D1F-9DDA-F2725F46274E](https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/e0154011-6d5c-49cf-8f02-b5aaeed2e1b6)
 
 
 ### My projects 
 * visual identity
-* posters
+* posters / prom, exhibitions, party ...
 * product design 
 * logo design
+* graphic in companies
 
 
 ### DIVADELNÍ KLUB ŠKOLKA
@@ -31,9 +32,9 @@
 
 
 ### CHAOIDY PANÍ PAPOUŠKOVÉ 
-"Chaoid's of Mrs. Parrots"
+"Chaoid's of Mrs. Parrot"
 
-* This book covers the history of art by Mrs. Vaculíková from prehistoric times to the present. In the book, you will find education materials, including illustrations and interesting facts... And this is my final project on Michael's school. 
+* This book is about the history of art by Mrs. Vaculíková from prehistoric times to the present. In the book, you will find education materials, illustrations and interesting facts about some artist... And it was my final project on Michael's school. 
 
 ![Free_Book_Mockup_8 (kopie)](https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/15b0a675-544b-4efa-9823-8a5b6d32ad9a)
 ![Free_Book_Mockup_3 (kopie)](https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/d93db4c0-1d61-4b58-922d-8ea76d8ac710)
@@ -42,7 +43,7 @@
 
 
 ### LAW OFFICE
-* This project is about a law firm. It is visual identity.
+* This project is about a law company. It is visual identity.
 
 ![Office Glass Mockup](https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/49e4b87c-bdc6-48dd-8278-cbb137cfe7ca)
 ![corporate-identity-mockup](https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/ee0003ed-46d7-4ade-bbeb-1f651e33f24a)

@@ -5,8 +5,10 @@
 
 ![ABC8DC13-5B67-4D1F-9DDA-F2725F46274E](https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/e0154011-6d5c-49cf-8f02-b5aaeed2e1b6)
 
+- [About me] (about me.md)
+- [My projects] (projects.md)
 
-### My projects 
+  
 * visual identity
 * posters / prom, exhibitions, party ...
 * product design 

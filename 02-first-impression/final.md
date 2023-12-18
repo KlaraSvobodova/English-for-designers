@@ -11,7 +11,7 @@
 * posters / prom, exhibitions, party ...
 * product design 
 * logo design
-* graphic in companies
+* graphic in companies / creating banners, roll-ups, and print materials ...
 
 
 ### DIVADELNÍ KLUB ŠKOLKA
@@ -26,11 +26,12 @@
 
 
 ### INTERNATIONAL MUSIC FESTIVAL 
-* This project was once again part of a competition, which I won. It involves creating the visual identity for an international classical music festival in Kutná Hora. The primary focus of this project is the creation of posters.
+* This project was created in 2021. It was a part of a competition, which I won. It involves creating the visual identity for an international classical music festival in Kutná Hora. The primary focus of this project is the creation of posters.
+* I wanted to incorporate the dynamics of music into the design. Use a color scheme that will be constant while also being able to change according to the given season.
+* But if you see a similar poster here in the hallway... it's not my work, it's the work of the graphic artist who messed everything up. Overall, I don't really like these competitions because when someone else gets hold of your work, it usually turns into something nobody wants.
 
 ![Urban_Poster_Mockup_11zon](https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/7d98bafb-2295-4903-b126-dfbe6b0a36bd)
 
-* But if you see a similar poster here in the hallway... it's not my work, it's the work of the graphic artist who messed everything up.
 
 ### CHAOIDY PANÍ PAPOUŠKOVÉ 
 "Chaoid's of Mrs. Parrot"
@@ -45,7 +46,8 @@
 
 ### LAW OFFICE
 * Project is about a law company. I created visual identity. It was a good experience in this sector.
-
+* For this project, it was necessary to look at it from a perspective other than just the creative one but also consider other aspects. It was more contemplative.
+  
 ![Office Glass Mockup](https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/49e4b87c-bdc6-48dd-8278-cbb137cfe7ca)
 ![corporate-identity-mockup](https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/ee0003ed-46d7-4ade-bbeb-1f651e33f24a)
 

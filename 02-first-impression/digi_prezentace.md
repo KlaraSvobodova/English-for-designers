@@ -43,3 +43,8 @@
 - Přejete si číst biografie umělců nebo se zajímat o proces tvorby?
 
 ## WIREFRAME
+<img width="354" alt="Snímek obrazovky 2024-01-16 v 14 26 32" src="https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/9ff91057-25ff-4683-9e65-851edba22c1b">
+<img width="1251" alt="Snímek obrazovky 2024-01-16 v 14 26 55" src="https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/b9460772-7bee-4a1c-a356-2a97b77430d2">
+<img width="1041" alt="Snímek obrazovky 2024-01-16 v 14 27 19" src="https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/f41bbbfa-4f0f-40a1-87a9-cce75e032130">
+<img width="1220" alt="Snímek obrazovky 2024-01-16 v 14 26 09" src="https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/e676ca87-5ba2-4bcf-b9e9-e32a5cff0447">
+

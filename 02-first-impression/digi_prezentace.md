@@ -47,10 +47,14 @@
 
 
 ## WEB
-<img width="387" alt="Snímek obrazovky 2024-01-16 v 15 21 14" src="https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/fc4ca06f-8ebe-4b93-9767-e50543517278">
-<img width="806" alt="Snímek obrazovky 2024-01-16 v 15 22 38" src="https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/c4ca3a6b-86cb-40b2-900a-823c3b2178f6">
-<img width="823" alt="Snímek obrazovky 2024-01-16 v 15 23 02" src="https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/c81a40d5-8925-42ef-b0be-41f8005f36b1">
-<img width="687" alt="Snímek obrazovky 2024-01-16 v 15 23 23" src="https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/9b6dfe3a-afbe-4665-af55-b064b9d80f99">
+![Bez názvu-6_Kreslicí plátno 1 kopie](https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/f3f75039-c021-4db9-a353-8c15b9bd7f62)
+
+## Contact formular 
+![Bez názvu-6_Kreslicí plátno 1 kopie 2](https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/5c456459-8d98-4d9b-bcde-f94df17e9343)
+
+## Ticket portal 
+![Bez názvu-6_Kreslicí plátno 1 kopie 3](https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/a4f62798-1a49-49cc-90e4-6133d8de49ed)
+
 
 
 

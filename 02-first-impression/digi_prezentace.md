@@ -1,13 +1,13 @@
 ## EXPRESSIONS GALLERY OF ART 
 
-## Cíl 
-* Cílem vytvoření designu stránek pro galerii umění je vytvořit esteticky působivé a funkční webové prostředí, které propůjčí uměleckým dílům život a zároveň poskytne návštěvníkům intuitivní a inspirativní prostředí pro prohlížení a interakci. Design by měl podporovat jedinečnost každého uměleckého díla, zajišťovat snadnou navigaci, a být responzivní pro různá zařízení. Dále by měl umožňovat efektivní prezentaci informací o umělcích a umožňovat návštěvníkům snadné sdílení svých dojmů a oblíbených děl na sociálních médiích. V konečném důsledku je cílem vytvořit prostředí, které propojuje technologii s uměním, posiluje komunitní angažovanost a poskytuje obohacený zážitek pro milovníky umění.
-
 ### ZADÁNÍ 
 - Konkrétní otázky pro výzkum definované na základě okruhů
 - Provedení výzkumu alespoň na 2 respondentech
 - Návrh homepage
 - Libovolný formulář (nákup lístku, kontaktní formulář)
+
+## CÍL
+* Cílem vytvoření designu stránek pro galerii umění je vytvořit esteticky působivé a funkční webové prostředí, které propůjčí uměleckým dílům život a zároveň poskytne návštěvníkům intuitivní a inspirativní prostředí pro prohlížení a interakci. Design by měl podporovat jedinečnost každého uměleckého díla, zajišťovat snadnou navigaci, a být responzivní pro různá zařízení. Dále by měl umožňovat efektivní prezentaci informací o umělcích a umožňovat návštěvníkům snadné sdílení svých dojmů a oblíbených děl na sociálních médiích. V konečném důsledku je cílem vytvořit prostředí, které propojuje technologii s uměním, posiluje komunitní angažovanost a poskytuje obohacený zážitek pro milovníky umění.
 
 ## UŽIVATELSKÝ VÝZKUM
 * DEMOGRAFICKÉ OTÁZKY

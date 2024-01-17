@@ -1,8 +1,9 @@
 ## EXPRESSIONS GALLERY OF ART 
 
+## Cíl 
+* Cílem vytvoření designu stránek pro galerii umění je vytvořit esteticky působivé a funkční webové prostředí, které propůjčí uměleckým dílům život a zároveň poskytne návštěvníkům intuitivní a inspirativní prostředí pro prohlížení a interakci. Design by měl podporovat jedinečnost každého uměleckého díla, zajišťovat snadnou navigaci, a být responzivní pro různá zařízení. Dále by měl umožňovat efektivní prezentaci informací o umělcích a umožňovat návštěvníkům snadné sdílení svých dojmů a oblíbených děl na sociálních médiích. V konečném důsledku je cílem vytvořit prostředí, které propojuje technologii s uměním, posiluje komunitní angažovanost a poskytuje obohacený zážitek pro milovníky umění.
 
 ### ZADÁNÍ 
-* Část A: Návrh webové prezentace v nástroji Figma - Okruhy pro uživatelský výzkum - stačí 5 bodů
 - Konkrétní otázky pro výzkum definované na základě okruhů
 - Provedení výzkumu alespoň na 2 respondentech
 - Návrh homepage
@@ -44,7 +45,6 @@
 
 ## WIREFRAME
 ![Bez názvu-2](https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/918ed9c1-d8ac-42c9-880a-30f882cb1577)
-
 
 ## WEB
 ![Bez názvu-6_Kreslicí plátno 1 kopie](https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/f3f75039-c021-4db9-a353-8c15b9bd7f62)

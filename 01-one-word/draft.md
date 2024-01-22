@@ -1,4 +1,4 @@
-Cat
+One word "Cat"
 
 Cats are interesting animals. They make us feel good and keep us company. Cats are special pets because they are cute and like to do their own thing, making our homes more fun.
 Cats catch our attention with their interesting behavior. Their big eyes make it seem like they know us really well. This makes them stand out as amazing pets.

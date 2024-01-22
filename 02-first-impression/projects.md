@@ -50,7 +50,7 @@
 * It was more contemplative.
   
 <img src="https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/49e4b87c-bdc6-48dd-8278-cbb137cfe7ca" width=50% height=50%>
-<img src="https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/ee0003ed-46d7-4ade-bbeb-1f651e33f24" width=50% height=50%>
+<img src="https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/ee0003ed-46d7-4ade-bbeb-1f651e33f24a)" width=50% height=50%>
 
 ### POSTERS
 

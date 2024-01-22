@@ -39,7 +39,7 @@
 <img src="https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/15b0a675-544b-4efa-9823-8a5b6d32ad9a" width=50% height=50%>
 <img src="https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/d93db4c0-1d61-4b58-922d-8ea76d8ac710" width=50% height=50%>
 <img src="https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/4ff4cfd2-1c55-4839-9cb2-5800399c92dc" width=50% height=50%>
-<img src="https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/d71420c9-b14e-49e0-ba2d-74a297d5876" width=50% height=50%>
+<img src="https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/d71420c9-b14e-49e0-ba2d-74a297d58764)" width=50% height=50%>
 
 
 ### LAW OFFICE

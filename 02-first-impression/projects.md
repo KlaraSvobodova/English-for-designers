@@ -27,7 +27,7 @@
 * But if you see a similar poster here in the hallway... it's not my work, it's the work of the graphic artist who messed everything up.
 * Overall, I don't really like these competitions because when someone else gets hold of your work, it usually turns into something nobody wants.
 
-![Urban_Poster_Mockup_11zon](https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/7d98bafb-2295-4903-b126-dfbe6b0a36bd)
+<img src="https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/7d98bafb-2295-4903-b126-dfbe6b0a36bd" width=50% height=50%>
 
 
 ### CHAOIDY PANÍ PAPOUŠKOVÉ 
@@ -36,10 +36,10 @@
 * This book is about the history of art by Mrs. Vaculíková from prehistoric times to the present.
 * In the book, you will find education materials, illustrations and interesting facts about some artist... And it was my final project on Michael's school last year.
 
-![Free_Book_Mockup_8 (kopie)](https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/15b0a675-544b-4efa-9823-8a5b6d32ad9a)
-![Free_Book_Mockup_3 (kopie)](https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/d93db4c0-1d61-4b58-922d-8ea76d8ac710)
-![Free_Book_Mockup_3](https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/4ff4cfd2-1c55-4839-9cb2-5800399c92dc)
-![Free_Book_Mockup_6](https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/d71420c9-b14e-49e0-ba2d-74a297d58764)
+<img src="https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/15b0a675-544b-4efa-9823-8a5b6d32ad9a" width=50% height=50%>
+<img src="https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/d93db4c0-1d61-4b58-922d-8ea76d8ac710" width=50% height=50%>
+<img src="https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/4ff4cfd2-1c55-4839-9cb2-5800399c92dc" width=50% height=50%>
+<img src="https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/d71420c9-b14e-49e0-ba2d-74a297d5876" width=50% height=50%>)
 
 
 ### LAW OFFICE
@@ -49,9 +49,9 @@
 * For this project, it was necessary to look at it from a perspective other than just the creative one but also consider other aspects.
 * It was more contemplative.
   
-![Office Glass Mockup](https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/49e4b87c-bdc6-48dd-8278-cbb137cfe7ca)
-![corporate-identity-mockup](https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/ee0003ed-46d7-4ade-bbeb-1f651e33f24a)
+<img src="https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/49e4b87c-bdc6-48dd-8278-cbb137cfe7ca" width=50% height=50%>
+<img src="https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/ee0003ed-46d7-4ade-bbeb-1f651e33f24" width=50% height=50%>
 
 ### POSTERS
 
-![Modern Stationery Branding Poster Mockup (kopie)_11zon](https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/b304150a-fcac-431f-87b8-c7698cc0a42e)
+<img src="https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/b304150a-fcac-431f-87b8-c7698cc0a42e" width=50% height=50%>

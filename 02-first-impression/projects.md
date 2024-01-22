@@ -55,7 +55,6 @@
 ### POSTERS
 
 <img src="https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/b304150a-fcac-431f-87b8-c7698cc0a42e" width=50% height=50%>
-<img src="https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/b304150a-fcac-431f-87b8-c7698cc0a42e" width=50% height=50%>
 <img src="https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/610775e7-2806-4a6a-aee3-4ce5321e2eb5" width=50% height=50%>
 <img src="https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/1cf5abd3-afc4-4d40-a343-6ed4d1a5c294" width=50% height=50%>
 <img src="https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/7d5c9f6e-1a9c-4866-bebe-74de0024c794" width=50% height=50%>

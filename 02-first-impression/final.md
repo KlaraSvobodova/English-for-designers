@@ -1,5 +1,5 @@
-## My portfolio
-# Klára Svobodová
+# My portfolio
+## Klára Svobodová
 
 <img src="https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/d1e0e856-40da-4e43-a428-501c0d070355" width=50% height=50%>
 

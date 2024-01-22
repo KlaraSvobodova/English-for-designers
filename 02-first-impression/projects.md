@@ -14,8 +14,8 @@
 * The design I made won and was used. It's still used today. I like remembering it because it was my first bigger contest win that actually happened.
 
 <img src="https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/5850b7c3-6b22-44dc-b04b-9c53a6d9cc48/" width=50% height=50%>
-<img src="(https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/143db6e5-3dab-4441-8e3e-c5ecbc3d354d)" width=50% height=50%>
-<img src="(https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/594151bb-9890-454e-aa08-907d3f2ae3dc)" width=50% height=50%>
+<img src="https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/143db6e5-3dab-4441-8e3e-c5ecbc3d354d" width=50% height=50%>
+<img src="https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/594151bb-9890-454e-aa08-907d3f2ae3dc" width=50% height=50%>
 
 
 ### INTERNATIONAL MUSIC FESTIVAL 

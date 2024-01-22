@@ -13,7 +13,7 @@
 * Identity was created in 2018 as part of a competition for the visual identity of a theater club.
 * The design I made won and was used. It's still used today. I like remembering it because it was my first bigger contest win that actually happened.
 
-![Chalkboard-Text-Effect](https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/5850b7c3-6b22-44dc-b04b-9c53a6d9cc48)
+<img src="https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/5850b7c3-6b22-44dc-b04b-9c53a6d9cc48/"width=50% height=50%>
 ![poster_mockup](https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/143db6e5-3dab-4441-8e3e-c5ecbc3d354d)
 ![Business Card Mockup](https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/594151bb-9890-454e-aa08-907d3f2ae3dc)
 

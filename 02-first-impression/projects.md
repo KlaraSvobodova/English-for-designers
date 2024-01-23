@@ -1,9 +1,9 @@
 ### My projects 
 * visual identity
 * posters / prom, exhibitions, party ...
-* product design 
+* product design /cosmetic
 * logo design
-* graphic in companies / creating banners, roll-ups, and print materials ...
+* graphic designer in companies / creating banners, roll-ups, and print materials ...
 
 
 ### DIVADELNÍ KLUB ŠKOLKA
@@ -34,7 +34,8 @@
 "Chaoid's of Mrs. Parrot"
 
 * This book is about the history of art by Mrs. Vaculíková from prehistoric times to the present.
-* In the book, you will find education materials, illustrations and interesting facts about some artist... And it was my final project on Michael's school last year.
+* In the book, you will find education materials, illustrations and interesting facts about some artist.I
+* It was my final project on Michael's school in 2023.
 
 <img src="https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/15b0a675-544b-4efa-9823-8a5b6d32ad9a" width=50% height=50%>
 <img src="https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/d93db4c0-1d61-4b58-922d-8ea76d8ac710" width=50% height=50%>
@@ -44,7 +45,7 @@
 
 ### LAW OFFICE
 * Project is about a law company.
-* I created visual identity.
+* I created this visual identity in 2022.
 * It was a good experience in this sector.
 * For this project, it was necessary to look at it from a perspective other than just the creative one but also consider other aspects.
 * It was more contemplative.

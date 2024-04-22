@@ -3,7 +3,9 @@
 
 ## Concept
 
-## Who are We are fair?
+## Target of campaign
+
+## Other topics
 
 ## Target group
 

@@ -1,10 +1,10 @@
 # Final thesis
 ## Non-profit organization We are fair
 
-# Concept
+## Concept
 
-# Who are We are fair?
+## Who are We are fair?
 
-# Target group
+## Target group
 
-# Communication campaign
+## Communication campaign

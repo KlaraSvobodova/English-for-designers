@@ -41,3 +41,13 @@ For this group, the key is the presentation of expert information and substantia
 ## Communication campaign
 
 Creating a communication campaign for the non-profit sector is a process that requires planning and strategic thinking. After setting objectives and identifying the target audience, it is crucial to create a strong message that resonates with and impacts the chosen group. This message should not only be clear and understandable but also emotionally compelling and persuasive to engage both the hearts and minds of the people.
+
+![vd](https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/6746006f-3733-4502-83c9-9f09d9e31a0b)
+
+![aj_Kreslicí plátno 1](https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/a541eb74-bbd8-4181-8a89-cba764ed832b)
+
+![aj_Kreslicí plátno 1 kopie](https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/bd4eecd2-86b2-4ba7-a0b7-87f29d691fef)
+
+![aj_Kreslicí plátno 1 kopie 2](https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/9af67533-8da9-465d-a63a-959300c77acf)
+
+![aj_Kreslicí plátno 1 kopie 3](https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/6304f6cc-e927-4a68-937b-9db8ea24cc57)

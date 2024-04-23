@@ -24,7 +24,7 @@ Unequal pay is a complex issue, the causes and impacts of which are not always a
 Changes in laws related to agriculture should aim to support more sustainable practices. This includes promoting organic farming through financial incentives and tax breaks for farms that practice organic methods. Laws should also protect soil and water resources from degradation and contamination by agricultural chemicals. Regulation of the use of chemical fertilizers and pesticides should be strengthened to reduce negative impacts on the environment. Crop diversification and support for genetic diversity should also be encouraged for more resilient and sustainable agricultural systems.
 
 ## Target group
-Target audience is divided into three parts: 
+
 1. General public
 
 Where the main ambition of this strategy is not only to raise awareness about the issue at hand but also to gain support and engagement from those who have not previously been interested in or had much information about this issue.

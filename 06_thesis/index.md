@@ -1,8 +1,9 @@
 # Final thesis
 ## Non-profit organization We are fair
-The final thesis focuses on outlining the programming of the "We are fair in the future" initiative and establishing communication strategies for new topics. 
+- The final thesis focuses on outlining the programming of the "We are fair in the future" initiative and establishing communication strategies for new topics. 
 
-## Concept
+## About initiative
+The initiative aims for full equality for LGBT individuals, couples, and families with children in the Czech Republic. The organization "Jsme fér" is a Czech non-profit organization focused on advocating for equal opportunities and combating discrimination against the homosexually oriented minority in Czech society. Their goal is to support and protect the rights of homosexual couples and families facing social inequality. The organization engages in various activities, including campaigns, educational events, and awareness programs. Their work is focused on creating a more inclusive and tolerant society.
 
 ## Target of campaign
 The aim of the bachelor's thesis is to preserve and develop the concept of fairness, which can be applied to other topics in the coming years. Additionally, the focus will be on creating a brand that would represent the company and enable individuals, products, or organizations to present themselves as fair actors.

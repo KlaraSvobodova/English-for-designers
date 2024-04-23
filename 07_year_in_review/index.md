@@ -1,6 +1,6 @@
 # Year in review
 
-I think this year has been the fastest of all! Everything went by so quickly that I don't even know where or with whom to start.
+- I think this year has been the fastest of all! Everything went by so quickly that I don't even know where or with whom to start.
 
 ## School
 

@@ -1,4 +1,4 @@
-# English-for-designers
+# english-for-designers
 
 # My portfolio
 ## Klára Svobodová

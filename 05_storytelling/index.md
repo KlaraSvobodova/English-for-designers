@@ -1,5 +1,5 @@
 # Storytelling 
-
+[Watch the video](05_storytelling.mp4)
 # Be fair
 
 I have decided to write more information about the topics I am addressing in my bachelor's thesis. I find them important for human society and the environment. It's good to be informed about them. These are topics that are more specialized, making it difficult to discuss them in my native language, let alone in English and specialized terms. I tried to explain it in a way that's easy to understand and not too boring.

@@ -1,4 +1,7 @@
 # Final thesis
+
+[Watch the video](06_thesis.mp4)
+
 ## Non-profit organization We are fair
 - The final thesis focuses on outlining the programming of the "We are fair in the future" initiative and establishing communication strategies for new topics. 
 

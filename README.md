@@ -11,4 +11,10 @@ Hi, I'am Graphic designer!
 
 - [Project](02-firts-impression/final.md)
 
-- [Voice and tone style](index.md)
+- [Voice and tone style](04_voice_and_tone_style/index.md)
+
+- [Storytelling](05_storytelling/idex.md)
+
+- [Thesis](06_thesis/index.md)
+
+- [Year in review](07_year_in_review/index.md)

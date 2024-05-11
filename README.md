@@ -11,4 +11,4 @@ Hi, I'am Graphic designer!
 
 - [Project](02-firts-impression/final.md)
 
-- [writting.md](writting.md)
+- [Voice and tone style](index.md)

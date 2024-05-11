@@ -8,6 +8,6 @@ Also to graphics, I work on Czech floorball development projects. I am an active
 
 It is good to myself and my health, it is like mental exercise.
   
-<img src="https://github.com/KlaraSvobodova/English-for-designers/assets/152971101/e0154011-6d5c-49cf-8f02-b5aaeed2e1b6" width=50% height=50%>
+<img src="https://github.com/KlaraSvobodova/english-for-designers/assets/152971101/e0154011-6d5c-49cf-8f02-b5aaeed2e1b6" width=50% height=50%>
 
 [Back](README.md)

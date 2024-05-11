@@ -4,8 +4,7 @@
 ## Klára Svobodová
 Hi, I’m Klára Svobodová, a graphic designer!
 
-![klara-portrait](https://github.com/KlaraSvobodova/english-for-designers/assets/152971101/8495f10b-79f6-4b52-805d-8f52a226a28b)
-
+![A portrait of Klára chillin' in a photo studio.](https://github.com/KlaraSvobodova/english-for-designers/assets/…)
 
 - [About Me](02-first-impression/about_me.md)
   

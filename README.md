@@ -13,7 +13,7 @@ Hi, I'am Graphic designer!
 
 - [Voice And Tone Style](04_voice_tone_style/index.md)
 
-- [Storytelling](05_storytelling/idex.md)
+- [Storytelling](05_storytelling/index.md)
 
 - [Thesis](06_thesis/index.md)
 

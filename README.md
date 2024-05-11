@@ -11,7 +11,7 @@ Hi, I’m Klára Svobodová, a graphic designer!
   
 - [One Word](01-one-word/final.md)
 
-- [Project](02-first-impression/projects.md)
+- [Projects](02-first-impression/projects.md)
 
 - [Voice And Tone Style](04_voice_tone_style/index.md)
 

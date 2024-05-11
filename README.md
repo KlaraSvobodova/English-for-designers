@@ -9,6 +9,6 @@ Hi, I'am Graphic designer!
 
 - [One Word](01-one-word/final.md)
 
-- [projects.md](projects.md)
+- [Project](02-firts-impression/final.md)
 
 - [writting.md](writting.md)
